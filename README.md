@@ -1,2 +1,3 @@
 # Moon-Client
-Klient MC od ecl1pse
+ZEPSUTE!! NOWY RELEASE `10 LISTOPADA`
+
